@@ -1,6 +1,6 @@
 from llama_cpp import Llama
 
-model_path = "./jackbot/JackBot.gguf"
+model_path = "" # Path to desired model
 
 model_kwargs = {
     "n_ctx": 8192, # Context length to use
