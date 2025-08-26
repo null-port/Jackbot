@@ -7,13 +7,13 @@ JackBot is a fine-tuned language model trained to play **Quiplash**, the comedy-
 
 ---
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 JackBot was trained on jokes and Quiplash responses that often lean toward the **inappropriate and absurd**. Use it responsibly and don't let it loose at your next office party.
 
 ---
 
-## 🃏 What is JackBot?
+## What is JackBot?
 
 - A **large language model trained on 500 of my own Quiplash responses**.
 - Fine-tuned the trained on the [Mistral-7B-Instruct Model](https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.3) using **[Unsloth](https://github.com/unslothai/unsloth)** for quick and efficient training.
